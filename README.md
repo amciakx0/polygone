@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://i.imgur.com/FEvRTfp.png" alt="polygone" /></h1>
 <h3 align="center">👋 Next level multicheat for Genshin Impact 👋</h3>
 <b align="center">A sequel to <a href="https://github.com/amciakx0/CCGenshin">CCGenshin</a> multicheat</b>
-
+<h3 align="center"><a href="https://github.com/amciakx0/polygone/issues/2">👉 Features 👈</a></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amciakx0&label=Hype&color=68b6ff&style=flat" alt="amciakx0" /> </p>
 <h3 align="left"><img src="https://i.imgur.com/CqupuEH.png">
 <b>Belluccia#2137</b></h3>
