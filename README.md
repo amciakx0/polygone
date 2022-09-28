@@ -7,7 +7,7 @@
 <h3 align="left"><img src="https://i.imgur.com/CqupuEH.png">
 <b>Belluccia#2137</b></h3>
 
-
+<h1 align="center">Current version: 3.1</h1>
 
 <p align="left">
 </p>
