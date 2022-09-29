@@ -25,5 +25,7 @@
 <br>
 <br>
 <h3 align="left"><img src="https://i.imgur.com/zQWTK7N.png"></h3>
-I really <b>care about your suggestions and proposals</b>. That's why I encourage you today to give me some interesting things that I could add to the <b>polygone</b> cheat.
+<s>I really <b>care about your suggestions and proposals</b>. That's why I encourage you today to give me some interesting things that I could add to the <b>polygone</b> cheat.
 You can add it here: <a href="https://github.com/amciakx0/polygone/issues">Click me</a>. Please use correct labels too :)
+</s>
+Those blocked because of greedy chinese people.
