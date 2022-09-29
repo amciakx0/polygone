@@ -28,4 +28,4 @@
 <s>I really <b>care about your suggestions and proposals</b>. That's why I encourage you today to give me some interesting things that I could add to the <b>polygone</b> cheat.
 You can add it here: <a href="https://github.com/amciakx0/polygone/issues">Click me</a>. Please use correct labels too :)
 </s><br>
-<h3>Those blocked because of greedy chinese people.</h3>
+<h3>Those blocked because of greedy chinese and ukraine people.</h3>
